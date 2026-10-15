@@ -1,0 +1,47 @@
+Question 1 what code is needed to complete x = (x + 5) * 5
+
+IT'S  SHOWTIME
+
+  HEY CHRISTMAS TREE num
+    YOU SET US UP 5
+
+  GET TO THE CHOPPER num
+    HERE IS MY INVITATION num
+
+
+    ENOUGH TALK  
+
+YOU HAVE BEEN TERMINATED
+
+A.  GET UP 5          ANSWER
+    YOU'RE FIRED 5
+
+B.  YOU'RE FIRED 5
+    GET UP 5
+
+C. GET DOWN 5
+   YOU'RE FIRED 5
+
+D. GET DOWN 5
+   YOU'RE FIRED 5
+
+QUESTION 2 why does the code not compile
+
+
+IT'S  SHOWTIME
+
+  HEY CHRISTMAS TREE num
+    YOU SET US UP 5
+
+  GET TO THE CHOPPER num
+    HERE IS MY INVITATION num
+    GET UP 5         
+    YOU'RE FIRED 5
+  ENOUGH TALK
+
+A. Main has not been initialized
+B. Main has not been terminated    ANSWER
+C. Can not multiply and add in the same variable assignment
+D. The syntax is wrong everyting should be in lowercase
+
+
